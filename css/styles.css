@@ -66,7 +66,7 @@ ul {
     color: #404bbf;
   }
 
-.section_1 {
+.section_first {
   color: #FFFFFF;
   background-color: #2E2F42;
 }
@@ -91,13 +91,13 @@ ul {
   cursor: pointer;
 }
 
-.section_2 {
+.section_second {
   background-color: #FCFCFC;
   border: 1px solid;
   border-color:#F4F4FD;
 }
 
-.section_2_h3 {
+.section_s_h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -105,12 +105,12 @@ ul {
   color: #2e2f42;
 }
 
-.section_2_p {
+.section_s_p {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.section_3 {
+.section_third {
   background-color: #F4F4FD;
 }
 
