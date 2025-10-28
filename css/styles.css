@@ -52,8 +52,11 @@ ul {
     color: #404bbf;
   }
 
-  .link_adress{
+  .adress{
     font-style: normal;
+  }
+
+  .link_adress{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
