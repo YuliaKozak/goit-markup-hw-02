@@ -97,7 +97,7 @@ ul {
   border-color:#F4F4FD;
 }
 
-.section_2>h3 {
+.section_2_h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -105,7 +105,7 @@ ul {
   color: #2e2f42;
 }
 
-.section_2>p {
+.section_2_p {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
