@@ -85,7 +85,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button:active, button:focus {
+.button:hover, button:active, button:focus {
   color: #FFFFFF;
   background-color: #404BBF;
   cursor: pointer;
