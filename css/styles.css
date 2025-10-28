@@ -31,3 +31,45 @@ a {
 ul {
     list-style: none;
   }
+
+  .link {
+    color: #434455;
+  }
+
+  .link:hover {
+    color: #4D5AE5;
+  }
+
+  .logo {
+  text-transform: uppercase;
+}
+
+.section1 {
+  color: #FFFFFF;
+  background-color: #2E2F42;
+}
+
+.button {
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+.button:active, button:focus {
+  color: #FFFFFF;
+  background-color: #4D5AE5;
+}
+
+.section3 {
+  background-color: #F4F4FD;
+}
+
+.list>li {
+  background-color: #FCFCFC;
+  display: inline-block;
+  border: 1px solid;
+  border-color:#F4F4FD;
+}
+
+.footer {
+  color: #FFFFFF;
+  background-color: #2E2F42;
+}
