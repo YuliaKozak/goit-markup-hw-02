@@ -133,6 +133,7 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .section_t_p {
@@ -142,11 +143,16 @@ ul {
   color: #434455;
 }
 
+.section_f_h {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 
-.list>li {
-  background-color: #FCFCFC;
-  border: 1px solid;
-  border-color:#F4F4FD;
+.section_f_list {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -154,9 +160,11 @@ ul {
   color: #2e2f42;
 }
 
-.list>p {
+.section_f_p {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .span {
