@@ -64,9 +64,9 @@ ul {
 
 .list>li {
   background-color: #FCFCFC;
-  display: inline-block;
+ /* display: inline-block;
   border: 1px solid;
-  border-color:#F4F4FD;
+  border-color:#F4F4FD;*/
 }
 
 .footer {
